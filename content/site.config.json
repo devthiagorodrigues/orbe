@@ -1,0 +1,16 @@
+{
+  "product": "GO",
+  "maxContentSections": 6,
+  "sectionIds": [
+    "inicio",
+    "projetos",
+    "escritorio",
+    "servicos",
+    "processo",
+    "contato"
+  ],
+  "projectCount": 4,
+  "conceptual": true,
+  "indexableDefault": false,
+  "heroVideo": "https://res.cloudinary.com/pwsxcwoz/video/upload/v1789067607/Architectural_scene_video_loop_1080p_20260910161248.mp4"
+}

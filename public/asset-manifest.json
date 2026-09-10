@@ -1,0 +1,82 @@
+{
+  "heroVideo": {
+    "provider": "Cloudinary",
+    "url": "https://res.cloudinary.com/pwsxcwoz/video/upload/v1789067607/Architectural_scene_video_loop_1080p_20260910161248.mp4",
+    "poster": "/images/orbe/casa-horizonte/hero.webp",
+    "usage": "Hero / Manifesto"
+  },
+  "images": {
+    "/images/orbe/casa-horizonte/hero.webp": {
+      "width": 1376,
+      "height": 768,
+      "source": "Photographing_Casa_Horizonte_ext#U2026_20260910154428.jpeg"
+    },
+    "/images/orbe/casa-horizonte/exterior.webp": {
+      "width": 896,
+      "height": 1200,
+      "source": "Casa_Horizonte_architectural_ext#U2026_20260910154428.jpeg"
+    },
+    "/images/orbe/casa-horizonte/interior.webp": {
+      "width": 896,
+      "height": 1200,
+      "source": "Interior_architecture_of_Casa_Ho#U2026_20260910154428.jpeg"
+    },
+    "/images/orbe/casa-horizonte/detail.webp": {
+      "width": 896,
+      "height": 1200,
+      "source": "Architectural_detail_photograph_#U2026_20260910154428.jpeg"
+    },
+    "/images/orbe/apartamento-lume/living.webp": {
+      "width": 1200,
+      "height": 896,
+      "source": "Designing_contemporary_apartment#U2026_20260910155107.jpeg"
+    },
+    "/images/orbe/apartamento-lume/kitchen.webp": {
+      "width": 1200,
+      "height": 896,
+      "source": "Apartamento_Lume_kitchen_and_dining_20260910155107.jpeg"
+    },
+    "/images/orbe/apartamento-lume/intimate.webp": {
+      "width": 1200,
+      "height": 896,
+      "source": "Apartamento_Lume_interior_spaces_20260910155107.jpeg"
+    },
+    "/images/orbe/casa-serra/exterior.webp": {
+      "width": 1376,
+      "height": 768,
+      "source": "Designing_contemporary_mountain_#U2026_20260910155401.jpeg"
+    },
+    "/images/orbe/casa-serra/interior.webp": {
+      "width": 1200,
+      "height": 896,
+      "source": "Photographing_Casa_Serra_living_#U2026_20260910155401.jpeg"
+    },
+    "/images/orbe/casa-serra/detail.webp": {
+      "width": 1200,
+      "height": 896,
+      "source": "Casa_Serra_architectural_detail_#U2026_20260910155401.jpeg"
+    },
+    "/images/orbe/studio-alba/main.webp": {
+      "width": 1200,
+      "height": 896,
+      "source": "Contemporary_commercial_interior#U2026_20260910160101.jpeg"
+    },
+    "/images/orbe/studio-alba/reception.webp": {
+      "width": 1200,
+      "height": 896,
+      "source": "Architectural_detail_composition_20260910160101.jpeg"
+    },
+    "/images/orbe/studio-alba/workspace.webp": {
+      "width": 1200,
+      "height": 896,
+      "source": "Photographing_architectural_work#U2026_20260910160101.jpeg"
+    }
+  },
+  "og": "/og/orbe-og.jpg",
+  "brand": {
+    "horizontalColor": "/brand/orbe-horizontal-color.svg",
+    "horizontalIvory": "/brand/orbe-horizontal-ivory.svg",
+    "symbolInk": "/brand/orbe-symbol-ink.svg",
+    "symbolIvory": "/brand/orbe-symbol-ivory.svg"
+  }
+}

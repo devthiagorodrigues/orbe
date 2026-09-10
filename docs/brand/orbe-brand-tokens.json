@@ -1,0 +1,31 @@
+{
+  "brand": "Orbe Arquitetura",
+  "version": "1.0",
+  "colors": {
+    "ivory": "#F2EFE9",
+    "ink": "#1D1D1B",
+    "umber": "#403832",
+    "stone": "#BEB6AC",
+    "mineral-grey": "#85847F",
+    "moss": "#687060",
+    "oxide": "#985F48"
+  },
+  "typography": {
+    "primary": "Cabinet Grotesk",
+    "editorial": "Instrument Serif",
+    "logo": "custom vector lettering - do not typeset"
+  },
+  "logo": {
+    "clearspace": "0.25 x symbol diameter",
+    "minimumDigital": {
+      "horizontal": "180px",
+      "wordmarkDescriptor": "140px",
+      "symbol": "16px"
+    },
+    "minimumPrint": {
+      "horizontal": "45mm",
+      "wordmark": "35mm",
+      "symbol": "5mm"
+    }
+  }
+}

@@ -1,0 +1,283 @@
+- generic [active] [ref=e1]:
+  - link "Pular para o conteúdo" [ref=e2] [cursor=pointer]:
+    - /url: "#inicio"
+  - banner [ref=e3]:
+    - link "Orbe Arquitetura, início" [ref=e4] [cursor=pointer]:
+      - /url: "#inicio"
+    - navigation "Navegação principal" [ref=e5]:
+      - link "Projetos" [ref=e6] [cursor=pointer]:
+        - /url: "#projetos"
+      - link "Escritório" [ref=e7] [cursor=pointer]:
+        - /url: "#escritorio"
+      - link "Serviços" [ref=e8] [cursor=pointer]:
+        - /url: "#servicos"
+      - link "Processo" [ref=e9] [cursor=pointer]:
+        - /url: "#processo"
+      - link "Contato" [ref=e10] [cursor=pointer]:
+        - /url: "#contato"
+  - main [ref=e11]:
+    - region [ref=e12]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - paragraph [ref=e17]: Arquitetura · Interiores · São Paulo
+          - heading "Espaços que refletem a forma como você vive." [level=1] [ref=e18]
+          - paragraph [ref=e19]: Arquitetura e interiores pensados entre estética, uso e identidade.
+          - link "Conheça nossos projetos" [ref=e20] [cursor=pointer]:
+            - /url: "#projetos"
+            - generic [aria-hidden] [ref=e22]: →
+        - link "Ir para Projetos" [ref=e23] [cursor=pointer]:
+          - /url: "#projetos"
+          - generic [ref=e24]: Projetos
+    - region [ref=e25]:
+      - generic [ref=e26]:
+        - paragraph [ref=e27]: Portfólio
+        - heading "Projetos" [level=2] [ref=e28]
+        - paragraph [ref=e29]: Cada espaço nasce de um encontro próprio entre uso, matéria, luz e contexto.
+      - generic [ref=e30]:
+        - article [ref=e31]:
+          - generic [ref=e32]:
+            - generic [ref=e33]:
+              - paragraph [ref=e34]: "01"
+              - heading "Casa Horizonte" [level=3] [ref=e35]
+            - paragraph [ref=e36]: Residencial · São Paulo
+            - paragraph [ref=e37]: Uma casa desenhada a partir dos percursos do dia a dia, com luz e paisagem sempre próximas do interior.
+          - generic [ref=e38]:
+            - paragraph [ref=e39]: Percurso, luz e permanência.
+            - figure "Percurso externo" [ref=e40]:
+              - img "Percurso coberto da Casa Horizonte entre fachada de madeira, concreto e jardim." [ref=e42]
+            - figure "Interior e jardim" [ref=e44]:
+              - img "Sala da Casa Horizonte integrada ao jardim por grandes planos de vidro." [ref=e46]
+            - figure "Encontro de materiais" [ref=e48]:
+              - img "Detalhe do encontro entre esquadria, madeira, concreto e piso claro na Casa Horizonte." [ref=e50]
+        - article [ref=e52]:
+          - generic [ref=e53]:
+            - generic [ref=e54]:
+              - paragraph [ref=e55]: "02"
+              - heading "Apartamento Lume" [level=3] [ref=e56]
+            - paragraph [ref=e57]: Interiores · São Paulo
+            - paragraph [ref=e58]: Interiores guiados pela luz, pelos materiais e por uma rotina que pede continuidade entre os ambientes.
+          - generic [ref=e59]:
+            - paragraph [ref=e60]: Luz baixa, textura e continuidade.
+            - figure "Sala de estar" [ref=e61]:
+              - img "Sala clara do Apartamento Lume com sofá neutro, madeira natural e luz filtrada." [ref=e63]
+            - figure "Cozinha e jantar" [ref=e65]:
+              - img "Cozinha e jantar do Apartamento Lume com marcenaria clara e superfícies de pedra." [ref=e67]
+            - figure "Área íntima" [ref=e69]:
+              - img "Quarto do Apartamento Lume em tons claros, madeira natural e tecidos neutros." [ref=e71]
+        - article [ref=e73]:
+          - generic [ref=e74]:
+            - generic [ref=e75]:
+              - paragraph [ref=e76]: "03"
+              - heading "Casa Serra" [level=3] [ref=e77]
+            - paragraph [ref=e78]: Residencial · Campos do Jordão
+            - paragraph [ref=e79]: Uma arquitetura de abrigo e paisagem, em que matéria e abertura se equilibram ao longo do terreno.
+          - generic [ref=e80]:
+            - paragraph [ref=e81]: Abrigo, pedra e abertura.
+            - figure "Casa e terreno" [ref=e82]:
+              - img "Casa Serra integrada ao terreno entre pedra natural, madeira e vegetação de montanha." [ref=e84]
+            - figure "Sala e paisagem" [ref=e86]:
+              - img "Sala da Casa Serra com lareira de pedra e grandes aberturas para a paisagem." [ref=e88]
+            - figure "Limiar material" [ref=e90]:
+              - img "Detalhe de pedra, madeira e esquadria escura em um limiar da Casa Serra." [ref=e92]
+        - article [ref=e94]:
+          - generic [ref=e95]:
+            - generic [ref=e96]:
+              - paragraph [ref=e97]: "04"
+              - heading "Studio Alba" [level=3] [ref=e98]
+            - paragraph [ref=e99]: Comercial · São Paulo
+            - paragraph [ref=e100]: Um espaço comercial em que operação, circulação e identidade seguem a mesma direção de projeto.
+          - generic [ref=e101]:
+            - paragraph [ref=e102]: Fluxo, presença e uso.
+            - figure "Área principal" [ref=e103]:
+              - img "Interior principal do Studio Alba com madeira, vidro e circulação integrada." [ref=e105]
+            - figure "Entrada e presença" [ref=e107]:
+              - img "Detalhe arquitetônico do Studio Alba com abertura escura e superfícies claras." [ref=e109]
+            - figure "Trabalho e reunião" [ref=e111]:
+              - img "Área de reunião do Studio Alba com mesa de madeira e divisórias de vidro." [ref=e113]
+      - generic [ref=e115]:
+        - link "Conheça nosso processo" [ref=e116] [cursor=pointer]:
+          - /url: "#processo"
+          - generic [aria-hidden] [ref=e118]: →
+        - paragraph [ref=e119]: Projetos apresentados neste estudo são conceituais.
+    - region [ref=e120]:
+      - generic [ref=e121]:
+        - generic [ref=e122]:
+          - paragraph [ref=e123]: Escritório
+          - heading "Arquitetura começa por quem habita." [level=2] [ref=e124]
+        - generic [ref=e125]:
+          - paragraph [ref=e126]: Antes de definir forma, materiais ou estética, buscamos entender rotina, necessidades, referências e modos de uso.
+          - paragraph [ref=e127]: A partir dessa leitura, o projeto organiza espaço, luz, matéria e circulação em uma direção clara. A intenção não é impor uma linguagem pronta, mas construir uma arquitetura que tenha identidade sem deixar de pertencer a quem a vive.
+          - paragraph [ref=e128]: A autoria está nas decisões. Não na repetição de uma fórmula.
+          - link "Conheça nossos serviços" [ref=e129] [cursor=pointer]:
+            - /url: "#servicos"
+            - generic [aria-hidden] [ref=e131]: →
+        - generic "Princípios da abordagem" [ref=e132]:
+          - article [ref=e133]:
+            - heading "Uso antes da forma" [level=3] [ref=e134]
+            - paragraph [ref=e135]: O desenho parte da rotina, da circulação e das necessidades concretas do espaço.
+          - article [ref=e136]:
+            - heading "Matéria com intenção" [level=3] [ref=e137]
+            - paragraph [ref=e138]: Materiais, luz e proporção entram como decisões de projeto, não como acabamento isolado.
+          - article [ref=e139]:
+            - heading "Identidade sem fórmula" [level=3] [ref=e140]
+            - paragraph [ref=e141]: Cada proposta busca coerência própria, sem repetir uma assinatura estética pronta.
+        - figure "Detalhe de encontro entre madeira, concreto, esquadria e piso claro." [ref=e142]:
+          - img "Detalhe de madeira, concreto, esquadria e piso claro em encontro arquitetônico." [ref=e143]
+    - region [ref=e145]:
+      - generic [ref=e146]:
+        - generic [ref=e147]:
+          - paragraph [ref=e148]: Serviços
+          - generic [ref=e149]:
+            - heading "Da arquitetura ao interior, um mesmo pensamento." [level=2] [ref=e150]
+            - paragraph [ref=e151]: "Cada frente muda em escopo, mas parte da mesma lógica: entender uso, contexto e identidade antes de definir forma."
+        - generic [ref=e152]:
+          - article [ref=e153]:
+            - generic [ref=e154]: "01"
+            - heading "Arquitetura residencial" [level=3] [ref=e155]
+            - generic [ref=e156]:
+              - paragraph [ref=e157]: Projetos de residências e apartamentos que articulam organização espacial, circulação, luz, materiais e modo de viver.
+              - paragraph [ref=e158]: Para construir ou redesenhar a experiência completa de morar.
+          - article [ref=e159]:
+            - generic [ref=e160]: "02"
+            - heading "Interiores" [level=3] [ref=e161]
+            - generic [ref=e162]:
+              - paragraph [ref=e163]: Layout, materiais, iluminação, marcenaria, mobiliário e acabamentos tratados como partes do mesmo espaço.
+              - paragraph [ref=e164]: Para dar coerência ao uso, à atmosfera e aos detalhes internos.
+          - article [ref=e165]:
+            - generic [ref=e166]: "03"
+            - heading "Arquitetura comercial" [level=3] [ref=e167]
+            - generic [ref=e168]:
+              - paragraph [ref=e169]: Espaços para clínicas, restaurantes, escritórios e negócios que precisam aproximar operação, presença e identidade.
+              - paragraph [ref=e170]: Para negócios em que o espaço também comunica posicionamento.
+          - article [ref=e171]:
+            - generic [ref=e172]: "04"
+            - heading "Reformas" [level=3] [ref=e173]
+            - generic [ref=e174]:
+              - paragraph [ref=e175]: Reorganização de espaços existentes a partir de novas necessidades e formas de uso.
+              - paragraph [ref=e176]: Para transformar uma estrutura existente sem perder direção de projeto.
+          - article [ref=e177]:
+            - generic [ref=e178]: "05"
+            - heading "Consultoria" [level=3] [ref=e179]
+            - generic [ref=e180]:
+              - paragraph [ref=e181]: Orientação pontual para decisões de layout, materiais, composição e direcionamento arquitetônico.
+              - paragraph [ref=e182]: Para destravar escolhas específicas antes de avançar.
+        - generic [ref=e183]:
+          - paragraph [ref=e184]: Não é preciso chegar com todas as respostas. O primeiro passo é entender o contexto.
+          - link "Fale sobre seu projeto" [ref=e185] [cursor=pointer]:
+            - /url: "#contato"
+            - generic [aria-hidden] [ref=e187]: →
+    - region [ref=e188]:
+      - generic [ref=e189]:
+        - generic [ref=e190]:
+          - paragraph [ref=e191]: Processo
+          - heading "Do entendimento à matéria." [level=2] [ref=e192]
+          - paragraph [ref=e193]: Cinco etapas organizam decisões sem simplificar artificialmente a complexidade de um projeto.
+          - link "Inicie uma conversa" [ref=e194] [cursor=pointer]:
+            - /url: "#contato"
+            - generic [aria-hidden] [ref=e196]: →
+        - list [ref=e197]:
+          - listitem [ref=e198]:
+            - generic [ref=e199]: "01"
+            - generic [ref=e200]:
+              - heading "Imersão" [level=3] [ref=e201]
+              - paragraph [ref=e202]: Entendimento de rotina, necessidades, referências, prioridades e objetivos.
+              - paragraph [ref=e203]: Briefing claro antes do desenho.
+          - listitem [ref=e204]:
+            - generic [ref=e205]: "02"
+            - generic [ref=e206]:
+              - heading "Conceito" [level=3] [ref=e207]
+              - paragraph [ref=e208]: O briefing ganha direção arquitetônica. Espaço, linguagem, atmosfera e materiais começam a tomar forma.
+              - paragraph [ref=e209]: Direção espacial e visual.
+          - listitem [ref=e210]:
+            - generic [ref=e211]: "03"
+            - generic [ref=e212]:
+              - heading "Projeto" [level=3] [ref=e213]
+              - paragraph [ref=e214]: Desenvolvimento dos ambientes, fluxos, materiais, iluminação e soluções que organizam o conjunto.
+              - paragraph [ref=e215]: Soluções organizadas por ambiente.
+          - listitem [ref=e216]:
+            - generic [ref=e217]: "04"
+            - generic [ref=e218]:
+              - heading "Detalhamento" [level=3] [ref=e219]
+              - paragraph [ref=e220]: As decisões aprovadas são traduzidas em especificações e informações necessárias para execução.
+              - paragraph [ref=e221]: Informação para orientar a execução.
+          - listitem [ref=e222]:
+            - generic [ref=e223]: "05"
+            - generic [ref=e224]:
+              - heading "Acompanhamento" [level=3] [ref=e225]
+              - paragraph [ref=e226]: Quando previsto no escopo, a Orbe acompanha etapas da passagem do projeto para a obra.
+              - paragraph [ref=e227]: Apoio na passagem do projeto à matéria.
+        - generic "Dúvidas frequentes" [ref=e228]:
+          - group [ref=e229]:
+            - generic "Quanto custa? +" [ref=e230] [cursor=pointer]
+          - group [ref=e231]:
+            - generic "Quanto tempo leva? +" [ref=e232] [cursor=pointer]
+          - group [ref=e233]:
+            - generic "Posso participar das decisões? +" [ref=e234] [cursor=pointer]
+          - group [ref=e235]:
+            - generic "A Orbe atende apenas residências? +" [ref=e236] [cursor=pointer]
+    - region [ref=e237]:
+      - generic [ref=e238]:
+        - generic [ref=e239]:
+          - paragraph [ref=e240]: Contato
+          - heading "Todo projeto começa por uma conversa." [level=2] [ref=e241]
+          - paragraph [ref=e242]: Conte um pouco sobre o espaço, o momento do projeto e o que você precisa. Não é necessário ter tudo definido.
+          - paragraph [ref=e243]: A primeira mensagem serve para entender o contexto. Escopo, prazo e investimento vêm depois.
+        - generic [ref=e244]:
+          - generic [aria-hidden] [ref=e245]:
+            - text: Empresa
+            - textbox [aria-hidden] [ref=e246]
+          - generic [ref=e247]:
+            - generic [ref=e248]: Nome
+            - textbox "Nome" [ref=e249]
+          - generic [ref=e250]:
+            - generic [ref=e251]: E-mail
+            - textbox "E-mail" [ref=e252]
+          - generic [ref=e253]:
+            - generic [ref=e254]: Tipo de projeto
+            - combobox "Tipo de projeto" [ref=e255]:
+              - option "Selecione" [disabled] [selected]
+              - option "Arquitetura residencial"
+              - option "Interiores"
+              - option "Arquitetura comercial"
+              - option "Reforma"
+              - option "Consultoria"
+              - option "Outro"
+          - generic [ref=e256]:
+            - generic [ref=e257]: Cidade (opcional)
+            - textbox "Cidade (opcional)" [ref=e258]
+          - generic [ref=e259]:
+            - generic [ref=e260]: Mensagem
+            - textbox "Mensagem" [ref=e261]
+          - generic [ref=e262]:
+            - button "Enviar mensagem" [ref=e263] [cursor=pointer]
+            - status
+  - contentinfo [ref=e264]:
+    - generic [ref=e265]:
+      - generic [ref=e266]:
+        - paragraph [ref=e267]: Orbe Arquitetura
+        - heading "Todo projeto começa por uma conversa." [level=2] [ref=e268]
+        - link "Inicie uma conversa" [ref=e269] [cursor=pointer]:
+          - /url: "#contato"
+          - text: Inicie uma conversa
+          - generic [aria-hidden] [ref=e270]: →
+      - generic [ref=e271]:
+        - img "Orbe Arquitetura" [ref=e273]
+        - navigation "Navegação do rodapé" [ref=e274]:
+          - link "Projetos" [ref=e275] [cursor=pointer]:
+            - /url: "#projetos"
+          - link "Escritório" [ref=e276] [cursor=pointer]:
+            - /url: "#escritorio"
+          - link "Serviços" [ref=e277] [cursor=pointer]:
+            - /url: "#servicos"
+          - link "Processo" [ref=e278] [cursor=pointer]:
+            - /url: "#processo"
+          - link "Contato" [ref=e279] [cursor=pointer]:
+            - /url: "#contato"
+      - generic [ref=e280]:
+        - generic [ref=e281]: São Paulo · Brasil
+        - generic [ref=e282]:
+          - text: Projeto conceitual desenvolvido pela Thiago Labs.
+          - link "Thiago Labs" [ref=e283] [cursor=pointer]:
+            - /url: https://thiagolabs.com.br
+            - text: Thiago Labs ↗
+  - button "Open Next.js Dev Tools" [ref=e289] [cursor=pointer]

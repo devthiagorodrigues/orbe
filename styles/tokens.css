@@ -1,0 +1,31 @@
+ :root {
+  --ivory: #f2efe9;
+  --ink: #1d1d1b;
+  --umber: #403832;
+  --stone: #beb6ac;
+  --mineral: #85847f;
+  --moss: #687060;
+  --oxide: #985f48;
+
+  --font-sans: "Cabinet Grotesk", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-serif: "Instrument Serif", Georgia, "Times New Roman", serif;
+
+  --page-gutter: clamp(1.25rem, 4vw, 7rem);
+  --container: 100rem;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+  --space-9: 6rem;
+  --space-10: 8rem;
+  --space-11: 10rem;
+  --space-12: 12.5rem;
+
+  --line: color-mix(in srgb, var(--ink) 18%, transparent);
+  --header-height: 5.25rem;
+}
