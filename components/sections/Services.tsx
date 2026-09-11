@@ -6,7 +6,6 @@ export function Services() {
     <section className="services section" id="servicos" aria-labelledby="services-title">
       <div className="container">
         <div className="services__heading">
-          <p className="eyebrow">Serviços</p>
           <div className="services__title">
             <h2 id="services-title">Da arquitetura ao interior, um mesmo pensamento.</h2>
             <p>

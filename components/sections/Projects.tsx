@@ -6,7 +6,6 @@ export function Projects() {
   return (
     <section className="projects section" id="projetos" aria-labelledby="projects-title">
       <div className="container projects__intro">
-        <p className="eyebrow">Portfólio</p>
         <h2 id="projects-title">Projetos</h2>
         <p>
           Cada espaço nasce de um encontro próprio entre uso, matéria, luz e contexto.

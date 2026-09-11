@@ -7,7 +7,6 @@ export function Studio() {
     <section className="studio section" id="escritorio" aria-labelledby="studio-title">
       <div className="container studio__grid">
         <div className="studio__heading">
-          <p className="eyebrow">{studio.eyebrow}</p>
           <h2 id="studio-title">{studio.title}</h2>
         </div>
 

@@ -9,7 +9,7 @@ export const navigation = [
 export const hero = {
   title: "Espaços que refletem a forma como você vive.",
   description:
-    "Arquitetura e interiores pensados entre estética, uso e identidade.",
+    "Arquitetura e interiores concebidos entre estética, funcionalidade e identidade.",
   cta: { href: "#projetos", label: "Conheça nossos projetos" }
 } as const;
 
@@ -161,7 +161,6 @@ export const projects = [
 ] as const;
 
 export const studio = {
-  eyebrow: "Escritório",
   title: "Arquitetura começa por quem habita.",
   paragraphs: [
     "Antes de definir forma, materiais ou estética, buscamos entender rotina, necessidades, referências e modos de uso.",
@@ -258,29 +257,6 @@ export const processSteps = [
     description:
       "Quando previsto no escopo, a Orbe acompanha etapas da passagem do projeto para a obra.",
     outcome: "Apoio na passagem do projeto à matéria."
-  }
-] as const;
-
-export const processQuestions = [
-  {
-    question: "Quanto custa?",
-    answer:
-      "Área, complexidade e nível de detalhamento mudam o investimento. A proposta nasce depois da primeira conversa."
-  },
-  {
-    question: "Quanto tempo leva?",
-    answer:
-      "O cronograma depende do tipo de projeto e das etapas necessárias. Prazos entram junto ao escopo."
-  },
-  {
-    question: "Posso participar das decisões?",
-    answer:
-      "Sim. O processo parte das suas necessidades, referências e prioridades, e as decisões avançam por etapa."
-  },
-  {
-    question: "A Orbe atende apenas residências?",
-    answer:
-      "Residencial e interiores são o foco principal. Arquitetura comercial, reformas e consultoria também podem entrar no escopo."
   }
 ] as const;
 

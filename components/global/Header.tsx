@@ -149,7 +149,13 @@ export function Header() {
         aria-hidden={!open}
       >
         <div className="mobile-menu__top">
-          <Image src="/brand/orbe-logo-horizontal-ivory.png" alt="" width="720" height="216" />
+          <Image
+            className="mobile-menu__brand"
+            src="/brand/orbe-logo-horizontal-ivory.png"
+            alt=""
+            width="720"
+            height="216"
+          />
           <button ref={closeButtonRef} type="button" onClick={closeMenu}>Fechar</button>
         </div>
         <nav aria-label="Navegação mobile" className="mobile-menu__nav">

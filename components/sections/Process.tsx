@@ -1,4 +1,4 @@
-import { processQuestions, processSteps } from "@/content/site";
+import { processSteps } from "@/content/site";
 import { TextLink } from "@/components/ui/TextLink";
 
 export function Process() {
@@ -6,7 +6,6 @@ export function Process() {
     <section className="process section" id="processo" aria-labelledby="process-title">
       <div className="container process__grid">
         <div className="process__intro">
-          <p className="eyebrow">Processo</p>
           <h2 id="process-title">Do entendimento à matéria.</h2>
           <p>
             Cinco etapas organizam decisões sem simplificar artificialmente a
@@ -28,14 +27,6 @@ export function Process() {
           ))}
         </ol>
 
-        <div className="process__questions" aria-label="Dúvidas frequentes">
-          {processQuestions.map((item) => (
-            <details className="process-question" key={item.question}>
-              <summary>{item.question}</summary>
-              <p>{item.answer}</p>
-            </details>
-          ))}
-        </div>
       </div>
     </section>
   );
